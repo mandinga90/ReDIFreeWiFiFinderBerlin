@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview.activities;
+package com.github.mandinga90.redifreewififinderberlin.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,11 +9,11 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.github.aprofromindia.playmapview.R;
-import com.github.aprofromindia.playmapview.entities.Venue;
-import com.github.aprofromindia.playmapview.entities.VenueBuilder;
-import com.github.aprofromindia.playmapview.functional.Consumer;
-import com.github.aprofromindia.playmapview.ui.fragments.RetainFragment;
+import com.github.mandinga90.redifreewififinderberlin.R;
+import com.github.mandinga90.redifreewififinderberlin.entities.Venue;
+import com.github.mandinga90.redifreewififinderberlin.entities.VenueBuilder;
+import com.github.mandinga90.redifreewififinderberlin.functional.Consumer;
+import com.github.mandinga90.redifreewififinderberlin.ui.fragments.RetainFragment;
 
 import java.util.HashMap;
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.aprofromindia.playmapview">
+    package="com.github.mandinga90.redifreewififinderberlin">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -18,15 +18,15 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAAPObJn4NF0H3ffQ25tS4nDqlFIgcXm5o" />
 
-        <activity android:name=".activities.MainActivity">
+        <activity android:name="com.github.mandinga90.redifreewififinderberlin.activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.CreateVenueActivity"></activity>
-        <activity android:name=".activities.UpdateVenueActivity"></activity>
+        <activity android:name="com.github.mandinga90.redifreewififinderberlin.activities.CreateVenueActivity"></activity>
+        <activity android:name="com.github.mandinga90.redifreewififinderberlin.activities.UpdateVenueActivity"></activity>
     </application>
 
 </manifest>

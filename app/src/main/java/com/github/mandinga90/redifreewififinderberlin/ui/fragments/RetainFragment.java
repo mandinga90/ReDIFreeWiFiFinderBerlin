@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview.ui.fragments;
+package com.github.mandinga90.redifreewififinderberlin.ui.fragments;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -6,10 +6,10 @@ import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.github.aprofromindia.playmapview.entities.Venue;
-import com.github.aprofromindia.playmapview.functional.Consumer;
-import com.github.aprofromindia.playmapview.http.RestClient;
-import com.github.aprofromindia.playmapview.http.VenueService;
+import com.github.mandinga90.redifreewififinderberlin.entities.Venue;
+import com.github.mandinga90.redifreewififinderberlin.functional.Consumer;
+import com.github.mandinga90.redifreewififinderberlin.http.RestClient;
+import com.github.mandinga90.redifreewififinderberlin.http.VenueService;
 
 import java.util.List;
 

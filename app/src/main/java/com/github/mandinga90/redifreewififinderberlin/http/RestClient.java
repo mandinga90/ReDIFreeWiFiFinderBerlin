@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview.http;
+package com.github.mandinga90.redifreewififinderberlin.http;
 
 import android.util.Base64;
 

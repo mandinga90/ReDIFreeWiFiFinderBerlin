@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview.entities;
+package com.github.mandinga90.redifreewififinderberlin.entities;
 
 public class Venue {
 

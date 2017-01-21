@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview;
+package com.github.mandinga90.redifreewififinderberlin;
 
 import org.junit.Test;
 

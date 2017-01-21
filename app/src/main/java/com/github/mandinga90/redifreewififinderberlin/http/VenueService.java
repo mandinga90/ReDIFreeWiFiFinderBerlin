@@ -1,6 +1,6 @@
-package com.github.aprofromindia.playmapview.http;
+package com.github.mandinga90.redifreewififinderberlin.http;
 
-import com.github.aprofromindia.playmapview.entities.Venue;
+import com.github.mandinga90.redifreewififinderberlin.entities.Venue;
 
 import java.util.List;
 

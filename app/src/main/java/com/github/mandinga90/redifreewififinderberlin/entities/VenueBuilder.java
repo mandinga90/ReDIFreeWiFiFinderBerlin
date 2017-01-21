@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview.entities;
+package com.github.mandinga90.redifreewififinderberlin.entities;
 
 /**
  * Created by mlu on 17.01.2017.

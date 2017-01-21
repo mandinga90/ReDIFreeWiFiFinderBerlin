@@ -1,4 +1,4 @@
-package com.github.aprofromindia.playmapview.functional;
+package com.github.mandinga90.redifreewififinderberlin.functional;
 
 public interface Consumer<T> {
     void apply(T t);
