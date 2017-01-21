@@ -5,4 +5,20 @@ The app shows free WiFi venues in a Google Maps fragment. App users can add new 
 To access the API Retrofit 2 is used. For managing permissions PermissionsDispatcher is included.
 This sample code serves as a code stub for being extended by ReDI students.
 
-[edit or delete venue]: https://github.com/mandinga90/ReDIFreeWiFiFinderBerlin/blob/master/app/src/screenshots/edit_delete_venue.PNG
+## Possible Features to extended
+- Add a venue on the user's location (make it draggable)
+- Use a service to directly get an address for a location
+- Get categories and add them directly to the spinner and validation
+- Validation of user interface
+- User login (API enhancement+)
+- ...
+
+## Screenshots
+### Edit or delete venue
+Different colors for categories (bar, restaurant, coworking space).
+
+![edit_delete_venue](https://cloud.githubusercontent.com/assets/12136660/22177065/5a87fdb8-e017-11e6-9580-6bb19d712681.PNG)
+### Add a new venue
+![add_new_venue](https://cloud.githubusercontent.com/assets/12136660/22177067/5aba6654-e017-11e6-8a70-a1dcbd1b331e.PNG)
+### Venue details (add/edit venue)
+![venue_details_activity](https://cloud.githubusercontent.com/assets/12136660/22177066/5ab8085a-e017-11e6-8c9a-5286d35f17d3.PNG)
