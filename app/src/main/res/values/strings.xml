@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReDI Free WiFi Finder Berlin</string>
+    <string name="NETWORK_FRAGMENT_TAG">NETWORK_FRAGMENT</string>
+</resources>

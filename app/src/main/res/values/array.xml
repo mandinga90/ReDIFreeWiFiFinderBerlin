@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Bar</item>
+        <item>Restaurant</item>
+        <item>Coworking space</item>
+    </string-array>
+</resources>
